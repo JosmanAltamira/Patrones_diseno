@@ -1,0 +1,15 @@
+D:\9.vscode\Patrones_Estructurales\7.Proxy\bin\Debug\net6.0\7.Proxy.exe
+D:\9.vscode\Patrones_Estructurales\7.Proxy\bin\Debug\net6.0\7.Proxy.deps.json
+D:\9.vscode\Patrones_Estructurales\7.Proxy\bin\Debug\net6.0\7.Proxy.runtimeconfig.json
+D:\9.vscode\Patrones_Estructurales\7.Proxy\bin\Debug\net6.0\7.Proxy.dll
+D:\9.vscode\Patrones_Estructurales\7.Proxy\bin\Debug\net6.0\7.Proxy.pdb
+D:\9.vscode\Patrones_Estructurales\7.Proxy\obj\Debug\net6.0\7.Proxy.csproj.AssemblyReference.cache
+D:\9.vscode\Patrones_Estructurales\7.Proxy\obj\Debug\net6.0\7.Proxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\9.vscode\Patrones_Estructurales\7.Proxy\obj\Debug\net6.0\7.Proxy.AssemblyInfoInputs.cache
+D:\9.vscode\Patrones_Estructurales\7.Proxy\obj\Debug\net6.0\7.Proxy.AssemblyInfo.cs
+D:\9.vscode\Patrones_Estructurales\7.Proxy\obj\Debug\net6.0\7.Proxy.csproj.CoreCompileInputs.cache
+D:\9.vscode\Patrones_Estructurales\7.Proxy\obj\Debug\net6.0\7.Proxy.dll
+D:\9.vscode\Patrones_Estructurales\7.Proxy\obj\Debug\net6.0\refint\7.Proxy.dll
+D:\9.vscode\Patrones_Estructurales\7.Proxy\obj\Debug\net6.0\7.Proxy.pdb
+D:\9.vscode\Patrones_Estructurales\7.Proxy\obj\Debug\net6.0\7.Proxy.genruntimeconfig.cache
+D:\9.vscode\Patrones_Estructurales\7.Proxy\obj\Debug\net6.0\ref\7.Proxy.dll

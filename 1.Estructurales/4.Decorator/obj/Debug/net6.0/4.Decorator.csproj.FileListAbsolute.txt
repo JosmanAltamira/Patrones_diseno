@@ -1,0 +1,15 @@
+D:\9.vscode\Patrones_Estructurales\4.Decorator\bin\Debug\net6.0\4.Decorator.exe
+D:\9.vscode\Patrones_Estructurales\4.Decorator\bin\Debug\net6.0\4.Decorator.deps.json
+D:\9.vscode\Patrones_Estructurales\4.Decorator\bin\Debug\net6.0\4.Decorator.runtimeconfig.json
+D:\9.vscode\Patrones_Estructurales\4.Decorator\bin\Debug\net6.0\4.Decorator.dll
+D:\9.vscode\Patrones_Estructurales\4.Decorator\bin\Debug\net6.0\4.Decorator.pdb
+D:\9.vscode\Patrones_Estructurales\4.Decorator\obj\Debug\net6.0\4.Decorator.csproj.AssemblyReference.cache
+D:\9.vscode\Patrones_Estructurales\4.Decorator\obj\Debug\net6.0\4.Decorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\9.vscode\Patrones_Estructurales\4.Decorator\obj\Debug\net6.0\4.Decorator.AssemblyInfoInputs.cache
+D:\9.vscode\Patrones_Estructurales\4.Decorator\obj\Debug\net6.0\4.Decorator.AssemblyInfo.cs
+D:\9.vscode\Patrones_Estructurales\4.Decorator\obj\Debug\net6.0\4.Decorator.csproj.CoreCompileInputs.cache
+D:\9.vscode\Patrones_Estructurales\4.Decorator\obj\Debug\net6.0\4.Decorator.dll
+D:\9.vscode\Patrones_Estructurales\4.Decorator\obj\Debug\net6.0\refint\4.Decorator.dll
+D:\9.vscode\Patrones_Estructurales\4.Decorator\obj\Debug\net6.0\4.Decorator.pdb
+D:\9.vscode\Patrones_Estructurales\4.Decorator\obj\Debug\net6.0\4.Decorator.genruntimeconfig.cache
+D:\9.vscode\Patrones_Estructurales\4.Decorator\obj\Debug\net6.0\ref\4.Decorator.dll

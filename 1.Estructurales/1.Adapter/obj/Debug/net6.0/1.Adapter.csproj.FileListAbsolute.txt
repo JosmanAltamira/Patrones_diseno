@@ -1,0 +1,15 @@
+D:\9.vscode\Patrones_Estructurales\1.Adapter\bin\Debug\net6.0\1.Adapter.exe
+D:\9.vscode\Patrones_Estructurales\1.Adapter\bin\Debug\net6.0\1.Adapter.deps.json
+D:\9.vscode\Patrones_Estructurales\1.Adapter\bin\Debug\net6.0\1.Adapter.runtimeconfig.json
+D:\9.vscode\Patrones_Estructurales\1.Adapter\bin\Debug\net6.0\1.Adapter.dll
+D:\9.vscode\Patrones_Estructurales\1.Adapter\bin\Debug\net6.0\1.Adapter.pdb
+D:\9.vscode\Patrones_Estructurales\1.Adapter\obj\Debug\net6.0\1.Adapter.csproj.AssemblyReference.cache
+D:\9.vscode\Patrones_Estructurales\1.Adapter\obj\Debug\net6.0\1.Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\9.vscode\Patrones_Estructurales\1.Adapter\obj\Debug\net6.0\1.Adapter.AssemblyInfoInputs.cache
+D:\9.vscode\Patrones_Estructurales\1.Adapter\obj\Debug\net6.0\1.Adapter.AssemblyInfo.cs
+D:\9.vscode\Patrones_Estructurales\1.Adapter\obj\Debug\net6.0\1.Adapter.csproj.CoreCompileInputs.cache
+D:\9.vscode\Patrones_Estructurales\1.Adapter\obj\Debug\net6.0\1.Adapter.dll
+D:\9.vscode\Patrones_Estructurales\1.Adapter\obj\Debug\net6.0\refint\1.Adapter.dll
+D:\9.vscode\Patrones_Estructurales\1.Adapter\obj\Debug\net6.0\1.Adapter.pdb
+D:\9.vscode\Patrones_Estructurales\1.Adapter\obj\Debug\net6.0\1.Adapter.genruntimeconfig.cache
+D:\9.vscode\Patrones_Estructurales\1.Adapter\obj\Debug\net6.0\ref\1.Adapter.dll

@@ -1,0 +1,15 @@
+D:\9.vscode\Patrones_diseño\2.Comportamiento\3.Visitor\bin\Debug\net6.0\3.Visitor.exe
+D:\9.vscode\Patrones_diseño\2.Comportamiento\3.Visitor\bin\Debug\net6.0\3.Visitor.deps.json
+D:\9.vscode\Patrones_diseño\2.Comportamiento\3.Visitor\bin\Debug\net6.0\3.Visitor.runtimeconfig.json
+D:\9.vscode\Patrones_diseño\2.Comportamiento\3.Visitor\bin\Debug\net6.0\3.Visitor.dll
+D:\9.vscode\Patrones_diseño\2.Comportamiento\3.Visitor\bin\Debug\net6.0\3.Visitor.pdb
+D:\9.vscode\Patrones_diseño\2.Comportamiento\3.Visitor\obj\Debug\net6.0\3.Visitor.csproj.AssemblyReference.cache
+D:\9.vscode\Patrones_diseño\2.Comportamiento\3.Visitor\obj\Debug\net6.0\3.Visitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\9.vscode\Patrones_diseño\2.Comportamiento\3.Visitor\obj\Debug\net6.0\3.Visitor.AssemblyInfoInputs.cache
+D:\9.vscode\Patrones_diseño\2.Comportamiento\3.Visitor\obj\Debug\net6.0\3.Visitor.AssemblyInfo.cs
+D:\9.vscode\Patrones_diseño\2.Comportamiento\3.Visitor\obj\Debug\net6.0\3.Visitor.csproj.CoreCompileInputs.cache
+D:\9.vscode\Patrones_diseño\2.Comportamiento\3.Visitor\obj\Debug\net6.0\3.Visitor.dll
+D:\9.vscode\Patrones_diseño\2.Comportamiento\3.Visitor\obj\Debug\net6.0\refint\3.Visitor.dll
+D:\9.vscode\Patrones_diseño\2.Comportamiento\3.Visitor\obj\Debug\net6.0\3.Visitor.pdb
+D:\9.vscode\Patrones_diseño\2.Comportamiento\3.Visitor\obj\Debug\net6.0\3.Visitor.genruntimeconfig.cache
+D:\9.vscode\Patrones_diseño\2.Comportamiento\3.Visitor\obj\Debug\net6.0\ref\3.Visitor.dll

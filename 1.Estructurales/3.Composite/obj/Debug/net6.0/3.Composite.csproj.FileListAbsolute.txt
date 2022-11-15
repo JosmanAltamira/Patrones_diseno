@@ -1,0 +1,15 @@
+D:\9.vscode\Patrones_Estructurales\3.Composite\bin\Debug\net6.0\3.Composite.exe
+D:\9.vscode\Patrones_Estructurales\3.Composite\bin\Debug\net6.0\3.Composite.deps.json
+D:\9.vscode\Patrones_Estructurales\3.Composite\bin\Debug\net6.0\3.Composite.runtimeconfig.json
+D:\9.vscode\Patrones_Estructurales\3.Composite\bin\Debug\net6.0\3.Composite.dll
+D:\9.vscode\Patrones_Estructurales\3.Composite\bin\Debug\net6.0\3.Composite.pdb
+D:\9.vscode\Patrones_Estructurales\3.Composite\obj\Debug\net6.0\3.Composite.csproj.AssemblyReference.cache
+D:\9.vscode\Patrones_Estructurales\3.Composite\obj\Debug\net6.0\3.Composite.GeneratedMSBuildEditorConfig.editorconfig
+D:\9.vscode\Patrones_Estructurales\3.Composite\obj\Debug\net6.0\3.Composite.AssemblyInfoInputs.cache
+D:\9.vscode\Patrones_Estructurales\3.Composite\obj\Debug\net6.0\3.Composite.AssemblyInfo.cs
+D:\9.vscode\Patrones_Estructurales\3.Composite\obj\Debug\net6.0\3.Composite.csproj.CoreCompileInputs.cache
+D:\9.vscode\Patrones_Estructurales\3.Composite\obj\Debug\net6.0\3.Composite.dll
+D:\9.vscode\Patrones_Estructurales\3.Composite\obj\Debug\net6.0\refint\3.Composite.dll
+D:\9.vscode\Patrones_Estructurales\3.Composite\obj\Debug\net6.0\3.Composite.pdb
+D:\9.vscode\Patrones_Estructurales\3.Composite\obj\Debug\net6.0\3.Composite.genruntimeconfig.cache
+D:\9.vscode\Patrones_Estructurales\3.Composite\obj\Debug\net6.0\ref\3.Composite.dll

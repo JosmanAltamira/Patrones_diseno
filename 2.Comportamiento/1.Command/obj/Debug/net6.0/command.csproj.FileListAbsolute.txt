@@ -1,0 +1,15 @@
+D:\9.vscode\Patrones_comportamiento\command\bin\Debug\net6.0\command.exe
+D:\9.vscode\Patrones_comportamiento\command\bin\Debug\net6.0\command.deps.json
+D:\9.vscode\Patrones_comportamiento\command\bin\Debug\net6.0\command.runtimeconfig.json
+D:\9.vscode\Patrones_comportamiento\command\bin\Debug\net6.0\command.dll
+D:\9.vscode\Patrones_comportamiento\command\bin\Debug\net6.0\command.pdb
+D:\9.vscode\Patrones_comportamiento\command\obj\Debug\net6.0\command.csproj.AssemblyReference.cache
+D:\9.vscode\Patrones_comportamiento\command\obj\Debug\net6.0\command.GeneratedMSBuildEditorConfig.editorconfig
+D:\9.vscode\Patrones_comportamiento\command\obj\Debug\net6.0\command.AssemblyInfoInputs.cache
+D:\9.vscode\Patrones_comportamiento\command\obj\Debug\net6.0\command.AssemblyInfo.cs
+D:\9.vscode\Patrones_comportamiento\command\obj\Debug\net6.0\command.csproj.CoreCompileInputs.cache
+D:\9.vscode\Patrones_comportamiento\command\obj\Debug\net6.0\command.dll
+D:\9.vscode\Patrones_comportamiento\command\obj\Debug\net6.0\refint\command.dll
+D:\9.vscode\Patrones_comportamiento\command\obj\Debug\net6.0\command.pdb
+D:\9.vscode\Patrones_comportamiento\command\obj\Debug\net6.0\command.genruntimeconfig.cache
+D:\9.vscode\Patrones_comportamiento\command\obj\Debug\net6.0\ref\command.dll

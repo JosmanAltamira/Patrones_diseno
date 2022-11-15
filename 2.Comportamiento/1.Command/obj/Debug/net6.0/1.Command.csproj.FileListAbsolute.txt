@@ -1,0 +1,15 @@
+D:\9.vscode\Patrones_diseño\2.Comportamiento\1.Command\bin\Debug\net6.0\1.Command.exe
+D:\9.vscode\Patrones_diseño\2.Comportamiento\1.Command\bin\Debug\net6.0\1.Command.deps.json
+D:\9.vscode\Patrones_diseño\2.Comportamiento\1.Command\bin\Debug\net6.0\1.Command.runtimeconfig.json
+D:\9.vscode\Patrones_diseño\2.Comportamiento\1.Command\bin\Debug\net6.0\1.Command.dll
+D:\9.vscode\Patrones_diseño\2.Comportamiento\1.Command\bin\Debug\net6.0\1.Command.pdb
+D:\9.vscode\Patrones_diseño\2.Comportamiento\1.Command\obj\Debug\net6.0\1.Command.csproj.AssemblyReference.cache
+D:\9.vscode\Patrones_diseño\2.Comportamiento\1.Command\obj\Debug\net6.0\1.Command.GeneratedMSBuildEditorConfig.editorconfig
+D:\9.vscode\Patrones_diseño\2.Comportamiento\1.Command\obj\Debug\net6.0\1.Command.AssemblyInfoInputs.cache
+D:\9.vscode\Patrones_diseño\2.Comportamiento\1.Command\obj\Debug\net6.0\1.Command.AssemblyInfo.cs
+D:\9.vscode\Patrones_diseño\2.Comportamiento\1.Command\obj\Debug\net6.0\1.Command.csproj.CoreCompileInputs.cache
+D:\9.vscode\Patrones_diseño\2.Comportamiento\1.Command\obj\Debug\net6.0\1.Command.dll
+D:\9.vscode\Patrones_diseño\2.Comportamiento\1.Command\obj\Debug\net6.0\refint\1.Command.dll
+D:\9.vscode\Patrones_diseño\2.Comportamiento\1.Command\obj\Debug\net6.0\1.Command.pdb
+D:\9.vscode\Patrones_diseño\2.Comportamiento\1.Command\obj\Debug\net6.0\1.Command.genruntimeconfig.cache
+D:\9.vscode\Patrones_diseño\2.Comportamiento\1.Command\obj\Debug\net6.0\ref\1.Command.dll

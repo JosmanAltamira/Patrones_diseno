@@ -1,0 +1,15 @@
+D:\9.vscode\Patrones_Estructurales\5.Facade\bin\Debug\net6.0\5.Facade.exe
+D:\9.vscode\Patrones_Estructurales\5.Facade\bin\Debug\net6.0\5.Facade.deps.json
+D:\9.vscode\Patrones_Estructurales\5.Facade\bin\Debug\net6.0\5.Facade.runtimeconfig.json
+D:\9.vscode\Patrones_Estructurales\5.Facade\bin\Debug\net6.0\5.Facade.dll
+D:\9.vscode\Patrones_Estructurales\5.Facade\bin\Debug\net6.0\5.Facade.pdb
+D:\9.vscode\Patrones_Estructurales\5.Facade\obj\Debug\net6.0\5.Facade.csproj.AssemblyReference.cache
+D:\9.vscode\Patrones_Estructurales\5.Facade\obj\Debug\net6.0\5.Facade.GeneratedMSBuildEditorConfig.editorconfig
+D:\9.vscode\Patrones_Estructurales\5.Facade\obj\Debug\net6.0\5.Facade.AssemblyInfoInputs.cache
+D:\9.vscode\Patrones_Estructurales\5.Facade\obj\Debug\net6.0\5.Facade.AssemblyInfo.cs
+D:\9.vscode\Patrones_Estructurales\5.Facade\obj\Debug\net6.0\5.Facade.csproj.CoreCompileInputs.cache
+D:\9.vscode\Patrones_Estructurales\5.Facade\obj\Debug\net6.0\5.Facade.dll
+D:\9.vscode\Patrones_Estructurales\5.Facade\obj\Debug\net6.0\refint\5.Facade.dll
+D:\9.vscode\Patrones_Estructurales\5.Facade\obj\Debug\net6.0\5.Facade.pdb
+D:\9.vscode\Patrones_Estructurales\5.Facade\obj\Debug\net6.0\5.Facade.genruntimeconfig.cache
+D:\9.vscode\Patrones_Estructurales\5.Facade\obj\Debug\net6.0\ref\5.Facade.dll

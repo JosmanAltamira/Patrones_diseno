@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qyHG47QIrcMBBl+Ak8c2OGQajlbLUNOAPDlqG+BUufwqT21Rx5ZkurlHWDODHyQLnRTL2uc8O02z9Te0MZ6Gyg==",
+  "success": true,
+  "projectFilePath": "D:\\9.vscode\\Patrones_Estructurales\\6.Flyweight\\6.Flyweight.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josman\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

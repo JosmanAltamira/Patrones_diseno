@@ -1,0 +1,15 @@
+D:\9.vscode\Patrones_diseño\2.Comportamiento\2.Iterator\bin\Debug\net6.0\2.Iterator.exe
+D:\9.vscode\Patrones_diseño\2.Comportamiento\2.Iterator\bin\Debug\net6.0\2.Iterator.deps.json
+D:\9.vscode\Patrones_diseño\2.Comportamiento\2.Iterator\bin\Debug\net6.0\2.Iterator.runtimeconfig.json
+D:\9.vscode\Patrones_diseño\2.Comportamiento\2.Iterator\bin\Debug\net6.0\2.Iterator.dll
+D:\9.vscode\Patrones_diseño\2.Comportamiento\2.Iterator\bin\Debug\net6.0\2.Iterator.pdb
+D:\9.vscode\Patrones_diseño\2.Comportamiento\2.Iterator\obj\Debug\net6.0\2.Iterator.csproj.AssemblyReference.cache
+D:\9.vscode\Patrones_diseño\2.Comportamiento\2.Iterator\obj\Debug\net6.0\2.Iterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\9.vscode\Patrones_diseño\2.Comportamiento\2.Iterator\obj\Debug\net6.0\2.Iterator.AssemblyInfoInputs.cache
+D:\9.vscode\Patrones_diseño\2.Comportamiento\2.Iterator\obj\Debug\net6.0\2.Iterator.AssemblyInfo.cs
+D:\9.vscode\Patrones_diseño\2.Comportamiento\2.Iterator\obj\Debug\net6.0\2.Iterator.csproj.CoreCompileInputs.cache
+D:\9.vscode\Patrones_diseño\2.Comportamiento\2.Iterator\obj\Debug\net6.0\2.Iterator.dll
+D:\9.vscode\Patrones_diseño\2.Comportamiento\2.Iterator\obj\Debug\net6.0\refint\2.Iterator.dll
+D:\9.vscode\Patrones_diseño\2.Comportamiento\2.Iterator\obj\Debug\net6.0\2.Iterator.pdb
+D:\9.vscode\Patrones_diseño\2.Comportamiento\2.Iterator\obj\Debug\net6.0\2.Iterator.genruntimeconfig.cache
+D:\9.vscode\Patrones_diseño\2.Comportamiento\2.Iterator\obj\Debug\net6.0\ref\2.Iterator.dll

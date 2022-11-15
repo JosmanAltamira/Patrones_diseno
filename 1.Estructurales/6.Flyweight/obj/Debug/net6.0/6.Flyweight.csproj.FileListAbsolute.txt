@@ -1,0 +1,17 @@
+D:\9.vscode\Patrones_Estructurales\6.Flyweight\bin\Debug\net6.0\6.Flyweight.exe
+D:\9.vscode\Patrones_Estructurales\6.Flyweight\bin\Debug\net6.0\6.Flyweight.deps.json
+D:\9.vscode\Patrones_Estructurales\6.Flyweight\bin\Debug\net6.0\6.Flyweight.runtimeconfig.json
+D:\9.vscode\Patrones_Estructurales\6.Flyweight\bin\Debug\net6.0\6.Flyweight.dll
+D:\9.vscode\Patrones_Estructurales\6.Flyweight\bin\Debug\net6.0\6.Flyweight.pdb
+D:\9.vscode\Patrones_Estructurales\6.Flyweight\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\9.vscode\Patrones_Estructurales\6.Flyweight\obj\Debug\net6.0\6.Flyweight.csproj.AssemblyReference.cache
+D:\9.vscode\Patrones_Estructurales\6.Flyweight\obj\Debug\net6.0\6.Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+D:\9.vscode\Patrones_Estructurales\6.Flyweight\obj\Debug\net6.0\6.Flyweight.AssemblyInfoInputs.cache
+D:\9.vscode\Patrones_Estructurales\6.Flyweight\obj\Debug\net6.0\6.Flyweight.AssemblyInfo.cs
+D:\9.vscode\Patrones_Estructurales\6.Flyweight\obj\Debug\net6.0\6.Flyweight.csproj.CoreCompileInputs.cache
+D:\9.vscode\Patrones_Estructurales\6.Flyweight\obj\Debug\net6.0\6.Flyweight.csproj.CopyComplete
+D:\9.vscode\Patrones_Estructurales\6.Flyweight\obj\Debug\net6.0\6.Flyweight.dll
+D:\9.vscode\Patrones_Estructurales\6.Flyweight\obj\Debug\net6.0\refint\6.Flyweight.dll
+D:\9.vscode\Patrones_Estructurales\6.Flyweight\obj\Debug\net6.0\6.Flyweight.pdb
+D:\9.vscode\Patrones_Estructurales\6.Flyweight\obj\Debug\net6.0\6.Flyweight.genruntimeconfig.cache
+D:\9.vscode\Patrones_Estructurales\6.Flyweight\obj\Debug\net6.0\ref\6.Flyweight.dll
